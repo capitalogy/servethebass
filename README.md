@@ -13,3 +13,5 @@ Made by Capitalogy.
 ## Run it
 
 Open `index.html` in a browser. There is no build step and nothing to install.
+
+ 
